@@ -1,5 +1,7 @@
-## Microservice
-Bluemix Microservice Starter in Java
+## ibO Microservice
+ibO Bluemix Microservice Starter in Java
+
+[!(http://i284.photobucket.com/albums/ll25/siribo/20150306_105626.jpg)]
 
 [![](https://img.shields.io/badge/bluemix-powered-blue.svg)](https://bluemix.net)
 [![Platform](https://img.shields.io/badge/platform-java-lightgrey.svg?style=flat)](https://www.ibm.com/developerworks/learn/java/)
