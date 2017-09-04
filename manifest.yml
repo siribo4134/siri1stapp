@@ -1,0 +1,9 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: siri1stapp
+  buildpack: liberty-for-java
+  path: ./target/siri1stapp.zip
+  memory: 512M
+  random-route: true
